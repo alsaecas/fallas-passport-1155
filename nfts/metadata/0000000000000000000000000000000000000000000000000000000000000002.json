@@ -1,0 +1,9 @@
+{
+  "name": "Fallas Passport — Monument 2",
+  "description": "Proof of attendance at Monument 2 (Fallas).",
+  "image": "ipfs://bafybeidttz7gsgf33fvpv4v6xjv2yo5be33mrl63kyo3j7cxg642xijplq/2.png",
+  "attributes": [
+    { "trait_type": "Checkpoint", "value": 2 },
+    { "trait_type": "Year", "value": 2026 }
+  ]
+}
